@@ -1,0 +1,9 @@
+total 392
+-rwxr-xr-x  1 alkyl  staff  91773 Jul 16 18:58 13.2FileDisplayProgram_aMartinez
+-rw-r--r--@ 1 alkyl  staff   7838 Jul 16 18:17 A Tale of Two Cities.txt
+-rw-r--r--@ 1 alkyl  staff  20816 Jul 16 18:17 Adventures of Sherlock Holmes.txt
+-rw-r--r--@ 1 alkyl  staff  22369 Jul 16 18:17 Count of Monte Cristo.txt
+-rw-r--r--@ 1 alkyl  staff  20967 Jul 16 18:17 Moby Dick.txt
+-rw-r--r--@ 1 alkyl  staff  18665 Jul 16 18:17 The Time Machine.txt
+-rw-r--r--  1 alkyl  staff   1843 Jul 16 18:58 main.cpp
+-rw-r--r--  1 alkyl  staff      0 Jul 16 18:58 test.txt
